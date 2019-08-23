@@ -3,6 +3,7 @@
 ## APIs
 ### Security
 * **[OAuth 2.0 Flows](https://medium.com/@darutk/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85)**: Diagrams And Movies Of All The OAuth 2.0 Flows.
+* **[OAuth2 Implicit Grant and SPA](https://auth0.com/blog/oauth2-implicit-grant-and-spa/)**: Everything you always wanted to know (but were afraid to ask).
 
 ## Architecture
 ### Distributed Systems
