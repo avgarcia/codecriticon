@@ -11,7 +11,7 @@
 * **[Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)**: Collection of the practices to reliably operate a large system.
 * **[Online Event Processing](https://queue.acm.org/detail.cfm?id=3321612)**: Achieving consistency where distributed transactions have failed
 
-## Hexagonal Architecture
+### Hexagonal Architecture
 * **[Spring Boot Hexagonal Architecture](https://github.com/hirannor/spring-boot-hexagonal-architecture)**: Hexagonal Architecture's Example with Spring Boot.
 
 ## Clean Code
@@ -20,3 +20,7 @@
 ## Develop
 ### Java
 * **[Troubleshooting Java Memory Issues](https://www.infoq.com/articles/Troubleshooting-Java-Memory-Issues/)**: Troubleshooting Memory Issues in Java Applications
+
+## Infra
+### Kubernetes
+* **[Kubernetes Node Size](https://learnk8s.io/kubernetes-node-size/)**: When you create a Kubernetes cluster, one of the first questions that pops up is: "what type of worker nodes should I use, and how many of them?".
