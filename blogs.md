@@ -26,6 +26,10 @@
 #### Reflection
 * **[Java Reflection, but much faster](https://www.optaplanner.org/blog/2018/01/09/JavaReflectionButMuchFaster.html)**: Benchmark different approaches, such as reflection, method handles and code generation.
 
+## Functional Programming
+### Introduction
+* **[Functional Programming for OOP Developers: Part 1](http://jessewarden.com/2016/08/beginners-guide-to-functional-programming-part-1.html)**: Learn functional programming for OOP programmers.
+
 ## Infra
 ### Kubernetes
 * **[Kubernetes Node Size](https://learnk8s.io/kubernetes-node-size/)**: When you create a Kubernetes cluster, one of the first questions that pops up is: "what type of worker nodes should I use, and how many of them?".
