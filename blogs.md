@@ -7,6 +7,9 @@
 * **[Select Grants and Flows](https://medium.com/@robert.broeckelmann/when-to-use-which-oauth2-grants-and-oidc-flows-ec6a5c00d864)**: When To Use Which (OAuth2) Grants and (OIDC) Flows.
 
 ## Architecture
+### Microservices
+* **[Organizing microservices - Modern Integration](http://wei-meilin.blogspot.com/2017/08/organizing-microservices-modern.html)**: Organizing microservices - Modern Integration.
+
 ### Distributed Systems
 * **[Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)**: Collection of the practices to reliably operate a large system.
 * **[Online Event Processing](https://queue.acm.org/detail.cfm?id=3321612)**: Achieving consistency where distributed transactions have failed
