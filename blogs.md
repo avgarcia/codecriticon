@@ -6,7 +6,7 @@
 * **[OAuth2 Implicit Grant and SPA](https://auth0.com/blog/oauth2-implicit-grant-and-spa/)**: Explain Implicit Grant problems and new Authorization Code Grant with Proof Key for Code Exchange (PKCE).
 * **[Select Grants and Flows](https://medium.com/@robert.broeckelmann/when-to-use-which-oauth2-grants-and-oidc-flows-ec6a5c00d864)**: When To Use Which (OAuth2) Grants and (OIDC) Flows.
 
-## Architecture
+## Architectures
 ### Microservices
 * **[Organizing microservices - Modern Integration](http://wei-meilin.blogspot.com/2017/08/organizing-microservices-modern.html)**: Organizing microservices - Modern Integration.
 
@@ -21,6 +21,9 @@
 
 ## Clean Code
 * **[Dev curricula](https://herbertograca.com/dev-theory-articles-listing/)**: List of articles about interesting concepts.
+
+## Design Patterns
+* **[Dependency Injection pattern](https://martinfowler.com/articles/injection.html)**: Inversion of Control Containers and the Dependency Injection pattern
 
 ## Develop
 ### Java
