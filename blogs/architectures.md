@@ -3,7 +3,7 @@
 * **[Microservices Trade Offs (Martin Fowler)](https://martinfowler.com/articles/microservice-trade-offs.html)**: Microservices costs and benefits of its implementation.
 * **[Organizing microservices - Modern Integration](http://wei-meilin.blogspot.com/2017/08/organizing-microservices-modern.html)**: Organizing microservices - Modern Integration.
 ### Testing
-* **(Microservices Testing (Martin Fowler))[https://martinfowler.com/articles/microservice-testing/]**: Testing Strategies in a Microservice Architecture.
+* **[Microservices Testing (Martin Fowler)](https://martinfowler.com/articles/microservice-testing/)**: Testing Strategies in a Microservice Architecture.
 
 ## Distributed Systems
 * **[Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)**: Collection of the practices to reliably operate a large system.
