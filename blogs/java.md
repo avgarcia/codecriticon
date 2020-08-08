@@ -2,6 +2,7 @@
 ## APIs
 ### Optional
 * **[Java 8 Optionals overview](http://blog.amitinside.com/Java-8-Optionals/)**
+* **[12 recipes for using the Optional class as it’s meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)**
 ### Reflection
 * **[Java Reflection, but much faster](https://www.optaplanner.org/blog/2018/01/09/JavaReflectionButMuchFaster.html)**: Benchmark different approaches, such as reflection, method handles and code generation.
 ## Best Practices
