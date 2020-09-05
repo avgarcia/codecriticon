@@ -15,4 +15,5 @@
 ### Testing
 * **[Microservices Testing (Martin Fowler)](https://martinfowler.com/articles/microservice-testing/)**: Testing Strategies in a Microservice Architecture.
 ### Patterns
+* **[Aggregate Pattern in Microservices Architecture](https://medium.com/better-programming/why-your-microservices-architecture-needs-aggregates-342b16dd9b6d)**: Why Your Microservices Architecture Needs Aggregates.
 * **[Outbox Pattern with Hibernate](https://thoughts-on-java.org/outbox-pattern-hibernate/)**: Microservices & Data – Implementing the Outbox Pattern with Hibernate.
