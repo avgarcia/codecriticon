@@ -12,4 +12,5 @@ List of articles and blogs that I found most interesting
 * [Java](blogs/java.md)
 * [Kotlin](blogs/kotlin.md)
 * [Kubernetes](blogs/kubernetes.md)
+* [Libraries and Frameworks](blogs/libraries-frameworks.md)
 * [Testing](blogs/testing.md)
