@@ -10,6 +10,7 @@ List of articles and blogs that I found most interesting
 * [Functional Programming](blogs/functional_programming.md)
 * [Infrastructure](blogs/infrastructure.md)
 * [Java](blogs/java.md)
+* [Kafka](blogs/kafka.md)
 * [Kotlin](blogs/kotlin.md)
 * [Kubernetes](blogs/kubernetes.md)
 * [Libraries and Frameworks](blogs/libraries-frameworks.md)
