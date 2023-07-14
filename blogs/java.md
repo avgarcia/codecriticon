@@ -3,6 +3,8 @@
 ### Optional
 * **[Java 8 Optionals overview](http://blog.amitinside.com/Java-8-Optionals/)**
 * **[12 recipes for using the Optional class as it’s meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)**
+### Streams
+* **[Gathering the streams](https://cr.openjdk.org/~vklang/Gatherers.html)**: Implement new intermediate operations in Stream API.
 ### Pattern Matching
 * **[Pattern Matching for Switch](https://www.infoq.com/articles/pattern-matching-for-switch/)**: A Comprehensive Guide to Java's New Feature: Pattern Matching for Switch.
 ### Reflection
