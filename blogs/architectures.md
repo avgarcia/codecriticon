@@ -16,6 +16,7 @@
 ## Microservices
 * **[Microservices Trade Offs (Martin Fowler)](https://martinfowler.com/articles/microservice-trade-offs.html)**: Microservices costs and benefits of its implementation.
 * **[Organizing microservices - Modern Integration](http://wei-meilin.blogspot.com/2017/08/organizing-microservices-modern.html)**: Organizing microservices - Modern Integration.
+* **[Transactions in microservices world](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)**: Transactions in microservices architectures: distributed transactions, error handling, compensations...
 ### Testing
 * **[Microservices Testing (Martin Fowler)](https://martinfowler.com/articles/microservice-testing/)**: Testing Strategies in a Microservice Architecture.
 ### Patterns
