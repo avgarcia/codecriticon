@@ -13,5 +13,6 @@
 * **[Java Inmutables](https://reflectoring.io/java-immutables/)**: Immutable objects are a way to create safer software that is easier to maintain. Why is that?.
 ## JVM
 * **[JVM Anatomy Quarks](https://shipilev.net/jvm/anatomy-quarks/)**: *JVM Anatomy Quarks* is the on-going mini-post series, where every post is describing some elementary piece of knowledge about JVM.
+* **[JVM Internals](https://blog.jamesdbloom.com/JVMInternals.html)**: This article explains the internal architecture of the Java Virtual Machine (JVM).
 ## Memory
 * **[Troubleshooting Java Memory Issues](https://www.infoq.com/articles/Troubleshooting-Java-Memory-Issues/)**: Troubleshooting Memory Issues in Java Applications
