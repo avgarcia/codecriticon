@@ -5,6 +5,7 @@ List of articles and blogs that I found most interesting
 * [APIs](blogs/apis.md)
 * [Architectures](blogs/architectures.md)
 * [Clean Code](blogs/clean_code.md)
+* [Computer Science](blogs/computer_science.md)
 * [Design Patterns](blogs/design_patterns.md)
 * [Domain Driven Design](blogs/domain_driven_design.md)
 * [Functional Programming](blogs/functional_programming.md)
