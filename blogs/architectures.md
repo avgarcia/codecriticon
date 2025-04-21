@@ -1,7 +1,11 @@
-# Architectures
+# Architecture
 ## Concepts
 ### Loose Copupling
   * **[Loose coupling cheat sheet](https://pkonyves.medium.com/loose-coupling-cheat-sheet-391f70006390)**: Summary of the main concepts of loose coupling.
+
+## Cache
+* **[RevenueCat’s data-caching techniques](https://www.revenuecat.com/blog/engineering/data-caching-revenuecat/)**: Scaling smoothly: RevenueCat’s data-caching techniques for 1.2 billion daily API requests.
+* **[Every Caching Strategy Explained in 5 Minutes](https://www.swequiz.com/blog/every-caching-strategy-explained-in-5-minutes)**: Caching is one of the simplest concepts for devs to know.
   
 ## Distributed Systems
 * **Beyond Distributed Transaction [1](https://jimmybogard.com/life-beyond-transactions-implementation-primer/) [2](https://jimmybogard.com/life-beyond-distributed-transactions-an-apostates-implementation-aggregate-coordination/) [3](https://jimmybogard.com/life-beyond-distributed-transactions-an-apostates-implementation-document-example/) [4](https://jimmybogard.com/life-beyond-distributed-transactions-an-apostates-implementation-dispatching-example/) [5](https://jimmybogard.com/life-beyond-distributed-transactions-an-apostates-implementation-failures-and-retries/) [6](https://jimmybogard.com/life-beyond-distributed-transactions-an-apostates-implementation-dispatcher-failure-recovery/) [7](https://jimmybogard.com/life-beyond-distributed-transactions-sagas/) [8](https://jimmybogard.com/life-beyond-distributed-transactions-an-apostates-implementation-relational-resources/) [9](https://jimmybogard.com/life-beyond-distributed-transactions-an-apostates-implementation-conclusion/)**: Life Beyond Distributed Transactions: An Apostate's Implementation.
