@@ -18,11 +18,17 @@
 * **[Spring Boot Hexagonal Architecture](https://github.com/hirannor/spring-boot-hexagonal-architecture)**: Hexagonal Architecture's Example with Spring Boot.
 
 ## Microservices
+### Concepts
 * **[Microservices Trade Offs (Martin Fowler)](https://martinfowler.com/articles/microservice-trade-offs.html)**: Microservices costs and benefits of its implementation.
 * **[Organizing microservices - Modern Integration](http://wei-meilin.blogspot.com/2017/08/organizing-microservices-modern.html)**: Organizing microservices - Modern Integration.
+### Migration
+* **[Patterns for Monolith to Microservice Migration](https://newsletter.systemdesigncodex.com/p/patterns-for-monolith-to-microservice)**: Moving from a monolithic architecture—where all functionality is bundled together—into a microservices architecture isn’t a flip of a switch.
+### Transactions
 * **[Transactions in microservices world](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)**: Transactions in microservices architectures: distributed transactions, error handling, compensations...
+
 ### Testing
 * **[Microservices Testing (Martin Fowler)](https://martinfowler.com/articles/microservice-testing/)**: Testing Strategies in a Microservice Architecture.
+
 ### Patterns
 * **[Aggregate Pattern in Microservices Architecture](https://medium.com/better-programming/why-your-microservices-architecture-needs-aggregates-342b16dd9b6d)**: Why Your Microservices Architecture Needs Aggregates.
 * **[Outbox Pattern with Hibernate](https://thoughts-on-java.org/outbox-pattern-hibernate/)**: Microservices & Data – Implementing the Outbox Pattern with Hibernate.
