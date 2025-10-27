@@ -4,6 +4,7 @@
   * **[Loose coupling cheat sheet](https://pkonyves.medium.com/loose-coupling-cheat-sheet-391f70006390)**: Summary of the main concepts of loose coupling.
 
 ## Cache
+* **[A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching)**: A complete guide to HTTP caching.
 * **[RevenueCat’s data-caching techniques](https://www.revenuecat.com/blog/engineering/data-caching-revenuecat/)**: Scaling smoothly: RevenueCat’s data-caching techniques for 1.2 billion daily API requests.
 * **[Every Caching Strategy Explained in 5 Minutes](https://www.swequiz.com/blog/every-caching-strategy-explained-in-5-minutes)**: Caching is one of the simplest concepts for devs to know.
 * **[Everything You Need to Know About Cache Strategies](https://newsletter.systemdesign.one/p/cache-strategies)**: A Simple Introduction to Cache Strategies.
